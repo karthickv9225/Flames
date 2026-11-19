@@ -1,0 +1,6 @@
+{
+  "name": "FLAMES Game",
+  "description": "A fun and colorful FLAMES relationship calculator game using the traditional letter cancellation and elimination method.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
